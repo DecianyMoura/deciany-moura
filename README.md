@@ -1,7 +1,5 @@
 
-![Minha Foto]([)](<img width="889" height="889" alt="image" src="https://github.com/user-attachments/assets/c6cba810-186b-4958-891a-f77be01538d4" />
-)
-
+(<img width="200" height="889" alt="image" src="https://github.com/user-attachments/assets/c6cba810-186b-4958-891a-f77be01538d4" />
 
 
 # Olá, eu sou Deciany Moura 👋
