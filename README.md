@@ -25,7 +25,7 @@ Sou Graduada em **Sistemas de Informação** e apaixonado(a) por **tecnologia, i
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Deciany Moura](https://www.linkedin.com/in/deciany-moura-67074827b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- LinkedIn: [Deciany Moura](https://www.linkedin.com/in/deciany-moura-67074827b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: devdeciany@gmail.com
 
 ---
