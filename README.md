@@ -1,4 +1,6 @@
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f573695d-f21f-4888-ba4f-3097eb0ebb63" />
+
+
 # Olá, eu sou Deciany Moura 👋
 
 Sou estudante de **Sistemas de Informação** e apaixonado(a) por **tecnologia, inteligência artificial e desenvolvimento de software**.
