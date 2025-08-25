@@ -6,7 +6,7 @@
 
 # Olá, eu sou Deciany Moura 👋
 
-Sou estudante de **Sistemas de Informação** e apaixonado(a) por **tecnologia, inteligência artificial e desenvolvimento de software**.
+Sou Graduada em **Sistemas de Informação** e apaixonado(a) por **tecnologia, inteligência artificial e desenvolvimento de software**.
 
 ---
 
