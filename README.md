@@ -1,6 +1,6 @@
-<img width="889" height="889" alt="image" src="https://github.com/user-attachments/assets/68033a37-be69-4057-9046-d5e41bcfa53c" />
 
-
+![Minha Foto]([)](<img width="889" height="889" alt="image" src="https://github.com/user-attachments/assets/c6cba810-186b-4958-891a-f77be01538d4" />
+)
 
 
 
@@ -32,5 +32,3 @@ Sou Graduada em **Sistemas de Informação** e apaixonado(a) por **tecnologia, i
 
 ---
 
-
-> “Sempre buscando transformar ideias em soluções tecnológicas!”
